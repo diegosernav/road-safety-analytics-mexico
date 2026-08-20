@@ -30,4 +30,4 @@ Developed as an academic project at Tecnológico de Monterrey.
 
 ## Live Project
 
-Once GitHub Pages is enabled, add the public project URL here.
+https://diegosernav.github.io/road-safety-analytics-mexico/
